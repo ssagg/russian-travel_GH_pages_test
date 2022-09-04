@@ -1,0 +1,15 @@
+.cover__link {
+  display: flex;
+  flex-direction: column;
+  aspect-ratio: 16/10;
+  text-decoration: none;
+  color: white;
+  background: rgba(0, 0, 0, 0.3);
+  transition: all .3s;
+  justify-content: center;
+  align-items: center;
+  }
+
+.cover__link:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
