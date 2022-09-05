@@ -1,5 +1,7 @@
 .header__lang {
-  margin-left: auto;
+  margin: 0;
+  padding: 0;
   display: flex;
   gap: 18px;
+  list-style-type: none;
 }

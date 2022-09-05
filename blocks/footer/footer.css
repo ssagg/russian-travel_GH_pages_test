@@ -5,6 +5,7 @@
   margin-top: 92px;
   margin-left: auto;
   margin-right: auto;
+  justify-content: space-between;
 }
 
 @media screen and (max-width: 1280px) {
