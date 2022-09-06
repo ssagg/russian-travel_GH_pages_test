@@ -11,7 +11,7 @@ color: white;
   opacity: 80%;
 }
 
-@media screen and (max-width: 660px) {
+/*@media screen and (max-width: 660px) {
   .place__website-link {
     font-size: 14px;
     line-height: 18px;

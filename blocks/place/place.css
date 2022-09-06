@@ -2,7 +2,6 @@
   display: grid;
   grid-template-columns: 460px minmax(320px, 484px);
   grid-template-rows: auto auto;
-  column-gap: 40px;
   row-gap: 48px;
   justify-items: start;
 }
@@ -23,7 +22,7 @@
 
 @media screen and (max-width: 660px) {
   .place {
-    grid-template-columns: minmax(180px, 300px) minmax(180px, 230px);
+    grid-template-columns: minmax(180px, 300px) minmax(180px, 292px);
     column-gap: 20px;
   }
 }

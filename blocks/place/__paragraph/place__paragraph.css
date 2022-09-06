@@ -6,7 +6,7 @@
   line-height: 29.34px;
 }
 
-.place__paragraph:nth-of-type(1n) {
+.place__paragraph:nth-of-type(1) {
   margin-bottom: 26px;
 }
 
